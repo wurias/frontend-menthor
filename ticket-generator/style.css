@@ -49,7 +49,7 @@
     color: rgba(255, 255, 255, 0.466);
 }
 
-@media (max-width: 676px) {
+@media (max-width: 900px) {
     .bg-image {
         background-image: url('assets/images/background-mobile.png');
     }
